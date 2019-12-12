@@ -12,7 +12,7 @@ function App() {
         <Modal
           className="onboarding-modal"
           focusTrap={false}
-          hasScrollingContent
+          hasscrollingcontent="false"
           iconDescription="Close the modal"
           aria-label="Label"
           modalAriaLabel="A label to be read by screen readers on the modal root node"
@@ -37,13 +37,12 @@ function App() {
           </React.Fragment>
           <div>
             <p>
-              Esse quis fugiat consequat ut cillum sit cillum enim in commodo
-              cupidatat. Incididunt minim commodo adipisicing irure
-              reprehenderit ut sit aliquip ullamco mollit aute ullamco
-              excepteur. Occaecat velit anim reprehenderit excepteur ea veniam
-              consequat consectetur excepteur aute voluptate minim proident
-              velit. Sint magna dolor veniam voluptate est pariatur deserunt
-              excepteur sunt sit qui. Veniam aliquip mollit mollit ut ullamco.
+              This is truly an almighty mountain. Let's put a touch more of the
+              magic here. Be careful. You can always add more - but you can't
+              take it away. So often we avoid running water, and running water
+              is a lot of fun. We're trying to teach you a technique here and
+              how to use it. You don't want to kill all your dark areas they are
+              very important.
             </p>
           </div>
         </Modal>
