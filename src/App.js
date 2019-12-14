@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
       <div className="modal-container">
+        <div className="container"></div>
         <Modal
           className="onboarding-modal"
           focusTrap={false}
